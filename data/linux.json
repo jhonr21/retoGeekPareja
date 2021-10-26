@@ -1,0 +1,69 @@
+{
+    "sistemaLinux": [
+        {
+            "id": 1,
+            "title": "MapleStory",
+            "thumbnail": "https://www.freetogame.com/g/325/thumbnail.jpg",
+            "short_description": "A popular free-to-play 2D side-scrolling MMORPG with tons of quests, and a huge game world!",
+            "game_url": "https://www.freetogame.com/open/maplestory",
+            "genre": "MMORPG",
+            "platform": "Linux",
+            "publisher": "Nexon",
+            "developer": "Wizet",
+            "release_date": "2005-05-11",
+            "freetogame_profile_url": "https://www.freetogame.com/maplestory"
+        },
+        {
+            "id": 2,
+            "title": "Shot Online",
+            "thumbnail": "https://www.freetogame.com/g/326/thumbnail.jpg",
+            "short_description": "A free to play Golfing MMO that any golf lover will enjoy to play!",
+            "game_url": "https://www.freetogame.com/open/shot-online",
+            "genre": "Sports",
+            "platform": "Linux",
+            "publisher": "GamesCampus",
+            "developer": "OnNet Co. Ltd.",
+            "release_date": "2004-11-30",
+            "freetogame_profile_url": "https://www.freetogame.com/shot-online"
+        },
+        {
+            "id": 3,
+            "title": "Everquest 2",
+            "thumbnail": "https://www.freetogame.com/g/327/thumbnail.jpg",
+            "short_description": "A free to play 3D fantasy MMORPG and the sequel to EverQuest.",
+            "game_url": "https://www.freetogame.com/open/everquest-2",
+            "genre": "MMORPG",
+            "platform": "Linux",
+            "publisher": "Daybreak Games",
+            "developer": "Daybreak Games",
+            "release_date": "2004-11-08",
+            "freetogame_profile_url": "https://www.freetogame.com/everquest-2"
+        },
+        {
+            "id": 4,
+            "title": "Dofus",
+            "thumbnail": "https://www.freetogame.com/g/328/thumbnail.jpg",
+            "short_description": "A 2D MMORPG with tons of different classes and a tactical combat system.",
+            "game_url": "https://www.freetogame.com/open/dofus",
+            "genre": "MMORPG",
+            "platform": "Linux",
+            "publisher": "Ankama Games",
+            "developer": "Ankama Games",
+            "release_date": "2004-09-01",
+            "freetogame_profile_url": "https://www.freetogame.com/dofus"
+        },
+        {
+            "id": 5,
+            "title": "Kal Online",
+            "thumbnail": "https://www.freetogame.com/g/329/thumbnail.jpg",
+            "short_description": "A Korean Fantasy MMORPG developed by Inixsoft.",
+            "game_url": "https://www.freetogame.com/open/kalonline",
+            "genre": "MMORPG",
+            "platform": "Linux",
+            "publisher": "Inisxoft",
+            "developer": "Inisxoft",
+            "release_date": "2004-06-11",
+            "freetogame_profile_url": "https://www.freetogame.com/kalonline"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "sistemaWindows": [
+        {
+            "id": 1,
+            "title": "Tale Of Toast",
+            "thumbnail": "https://www.freetogame.com/g/44/thumbnail.jpg",
+            "short_description": "A free-to-play open world MMO inspired by classic, core MMOs. ",
+            "game_url": "https://www.freetogame.com/open/tale-of-toast",
+            "genre": "MMORPG",
+            "platform": "Windows",
+            "publisher": "Toasty Leaf AB",
+            "developer": "Toasty Leaf AB",
+            "release_date": "2018-02-23",
+            "freetogame_profile_url": "https://www.freetogame.com/tale-of-toast"
+        },
+        {
+            "id": 2,
+            "title": "SoulWorker",
+            "thumbnail": "https://www.freetogame.com/g/45/thumbnail.jpg",
+            "short_description": "A free to play anime action MMO based on the popular anime of the same title. ",
+            "game_url": "https://www.freetogame.com/open/soulworker",
+            "genre": "Fighting",
+            "platform": "Windows",
+            "publisher": "Gameforge",
+            "developer": "Lion Games",
+            "release_date": "2018-02-27",
+            "freetogame_profile_url": "https://www.freetogame.com/soulworker"
+        },
+        {
+            "id": 3,
+            "title": "Bombtag",
+            "thumbnail": "https://www.freetogame.com/g/47/thumbnail.jpg",
+            "short_description": "A free-to-play multiplayer Bomberman-inspired game.",
+            "game_url": "https://www.freetogame.com/open/bombtag",
+            "genre": "Strategy",
+            "platform": "Windows",
+            "publisher": "David Schneider",
+            "developer": "David Schneider",
+            "release_date": "2018-02-12",
+            "freetogame_profile_url": "https://www.freetogame.com/bombtag"
+        },
+        {
+            "id": 4,
+            "title": "Ironsight",
+            "thumbnail": "https://www.freetogame.com/g/48/thumbnail.jpg",
+            "short_description": "A free-to-play futuristic shooter published by Aeria Games. ",
+            "game_url": "https://www.freetogame.com/open/ironsight",
+            "genre": "Shooter",
+            "platform": "Windows",
+            "publisher": "Aeria Games",
+            "developer": "Wiple Games",
+            "release_date": "2018-02-01",
+            "freetogame_profile_url": "https://www.freetogame.com/ironsight"
+        },
+        {
+            "id": 5,
+            "title": "Dead Maze",
+            "thumbnail": "https://www.freetogame.com/g/49/thumbnail.jpg",
+            "short_description": "A free-to-play 2D isometric MMO full of zombies. ",
+            "game_url": "https://www.freetogame.com/open/dead-maze",
+            "genre": "MMORPG",
+            "platform": "Windows",
+            "publisher": "801",
+            "developer": "801",
+            "release_date": "2018-02-13",
+            "freetogame_profile_url": "https://www.freetogame.com/dead-maze"
+        }
+    ]
+}
